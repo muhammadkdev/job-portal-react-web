@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/job-portal-react-web/static/css/main.7302ee3c.css",
+    "main.js": "/job-portal-react-web/static/js/main.aca0d682.js",
+    "static/js/787.b6faf414.chunk.js": "/job-portal-react-web/static/js/787.b6faf414.chunk.js",
+    "index.html": "/job-portal-react-web/index.html",
+    "main.7302ee3c.css.map": "/job-portal-react-web/static/css/main.7302ee3c.css.map",
+    "main.aca0d682.js.map": "/job-portal-react-web/static/js/main.aca0d682.js.map",
+    "787.b6faf414.chunk.js.map": "/job-portal-react-web/static/js/787.b6faf414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7302ee3c.css",
+    "static/js/main.aca0d682.js"
+  ]
+}
